@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
+/* *{ margin: 0; padding: 0;} */
+body{
+    height: 100%;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: block;
+    background-color: #9D8FF7;
+    height: 15%;
+}
+header > h1 {
+    font-family: 'Bungee Shade', cursive;
+    margin: 0;
+}
+img {
+    display: flex;
+    align-items: flex-end;
+    border-radius: 50%;
+    height: 70%;
+}
